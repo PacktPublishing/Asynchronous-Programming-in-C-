@@ -15,7 +15,7 @@ boost::cobalt::generator<int, int> fibonacci_term() {
         int f1 = 1;
         int f;
 
-        for (int i = 2; i < n; ++i) {
+        for (int i = 2; i <= n; ++i) {
             f = f0 + f1;
             f0 = f1;
             f1 = f;
