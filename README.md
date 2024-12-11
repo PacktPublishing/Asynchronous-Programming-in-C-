@@ -52,12 +52,13 @@ With the following software and hardware list you can run all code files present
 | 3-13| Clang 18| Windows 11|
 | 3-13| Boost 1.86|   |
 | 3-13| GDB 15.1|     |
+
 ### Related products
 * Mastering Go - Third Edition [[Packt]](https://www.packtpub.com/en-in/product/mastering-go-third-edition-9781801073011) [[Amazon]](https://www.amazon.in/dp/1801079315)
 
 * Go Programming - From Beginner to Professional - Second Edition [[Packt]](https://www.packtpub.com/en-in/product/go-programming-from-beginner-to-professional-9781803246307) [[Amazon]]()
 
-## Get to Know the Author
+## Get to Know the Authors
 **Javier Reguera-Salgado** is a seasoned software engineer with 19+ years of experience, specializing in high-performance computing, real-time data processing, and communication protocols.
 Skilled in C++, Python, and a variety of other programming languages and technologies, his work spans low-latency distributed systems, mobile apps, web solutions, and enterprise products. He has contributed to research centers, start-ups, blue-chip companies, and quantitative investment firms in Spain and the UK.
 Javier holds a PhD cum laude in high-performance computing from the University of Vigo, Spain.
